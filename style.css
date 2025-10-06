@@ -1,3 +1,15 @@
 h1 {
     color: darkgreen;
 }
+
+p {
+    color:lightgreen;
+}
+
+.container {
+    width: 500px;
+    background-color: cornsilk;
+    margin: auto;
+    padding: 20px;
+}
+
