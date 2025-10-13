@@ -10,8 +10,12 @@ p {
     color: #333333;
 }
 
+img {
+    max-width: 100%;
+}
+
 .container {
-    width: 500px;
+    width: 700px;
     background-color: #dddddd;
     padding: 20px;
     border: 3px solid #666666;
